@@ -1,0 +1,25 @@
+# Fichiers générés par l'IDE
+*.o
+*.out
+*.hex
+
+# Dossiers de build
+_build/
+
+# Fichiers de configuration de l'IDE
+.project
+.cproject
+
+# Fichiers temporaires
+*.swp
+
+# Fichiers de logs
+*.log
+
+# Dossiers générés par CMake
+CMakeFiles/
+CMakeScripts/
+
+# Fichiers de configuration CMake
+CMakeCache.txt
+CMakeSettings.json
